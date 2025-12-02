@@ -3,3 +3,6 @@ streamlit
 pandas
 streamlit-folium
 plotly
+tensorflow>=2.10
+scikit-learn
+joblib
